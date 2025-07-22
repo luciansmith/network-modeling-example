@@ -7,7 +7,7 @@ Excercise:
 <ol>
   <li>Visit https://github.com/luciansmith/network-modeling-example
   <li>Copy the python script into colab and run it.<br>
-  (Note: you'll probably need a '!apt-get install libncurses5' and then '!pip install tellurium' added at the top.)
+  (Note: you'll probably need a '!pip install tellurium' added at the top.)
   <li>It doesn't oscillate!  Did it use to?  Check out the very first version and check.
   <li>Find out when I made a mistake and why it happened.
   <li>File a bug report ('issue') and describe what the problem is.
