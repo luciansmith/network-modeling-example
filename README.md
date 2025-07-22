@@ -11,7 +11,10 @@ Excercise:
   <li>It doesn't oscillate!  Did it use to?  Check out the very first version and check.
   <li>Find out when I made a mistake and why it happened.
   <li>File a bug report ('issue') and describe what the problem is.
+</ol>
+
 ADVANCED
+<ol>
   <li>Create a fork of the repository
   <li>Fix the model so it oscillates again, check that in to your fork.
   <li>Put back in the annotations and units, check that in.
